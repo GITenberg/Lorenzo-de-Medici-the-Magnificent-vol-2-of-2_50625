@@ -1,0 +1,32 @@
+_repo: Lorenzo-de-Medici-the-Magnificent-vol-2-of-2_50625
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Harrison, Robert
+    birthdate: 1820
+    deathdate: 1897
+    gutenberg_agent_id: '45968'
+    url: http://www.gutenberg.org/2009/agents/45968
+creator:
+  author:
+    agent_name: Reumont, Alfred von
+    alias: Von Reumont, Alfred
+    birthdate: 1808
+    deathdate: 1887
+    gutenberg_agent_id: '48814'
+    url: http://www.gutenberg.org/2009/agents/48814
+description: ''
+gutenberg_issued: '2015-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medici, Lorenzo de'', 1449-1492'
+- !lcc 'DG'
+- GITenberg
+title: Lorenzo de' Medici, the Magnificent (vol. 2 of 2)
+url: http://www.gutenberg.org/ebooks/50625
